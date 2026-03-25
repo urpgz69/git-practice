@@ -12,6 +12,8 @@ public class sada {
         }
 
 
+        System.out.println("e");
+        Random r = new Random(6);
 
     }
 
