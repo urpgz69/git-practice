@@ -13,6 +13,12 @@ public class sada {
 
 
         System.out.println("e");
+        Random r = new Random();
+
+        int a = r.next(6);
+        System.out.println(a);
+
+
         Random r = new Random(6);
     }
 
